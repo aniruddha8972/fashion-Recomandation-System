@@ -37,7 +37,7 @@ it takes some time (likely 45min - 1hr) to run..
 
 step 4:
 
-then eun the test.py file..
+then Run the test.py file..
 
 Step 5:
 
